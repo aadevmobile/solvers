@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MRTK_WORKPLEASE",
+"productVersion": "0.1",
+"dataUrl": "Solvers_test.data.unityweb",
+"wasmCodeUrl": "Solvers_test.wasm.code.unityweb",
+"wasmFrameworkUrl": "Solvers_test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
